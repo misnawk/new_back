@@ -30,7 +30,6 @@ async function bootstrap() {
   // 전역 파이프 설정
 
   setupSwagger(app);
-
   await app.listen(process.env.PORT || port);
   console.log(`Server is running on port:${port}!`);
 }
