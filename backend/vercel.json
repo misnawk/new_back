@@ -14,7 +14,7 @@
   "routes": [
     {
       "src": "/api-docs/(.*)",
-      "dest": "/public/api-docs"
+      "dest": "bakend/public/api-docs"
     },
     {
       "src": "/(.*)",
