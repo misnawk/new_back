@@ -17,7 +17,7 @@ import { AuthModule } from './auth/auth.module';
       isGlobal: true, // 환경 변수를 전역으로 사용
     }),
     ServeStaticModule.forRoot({
-      rootPath: join(__dirname, '..', 'public'),
+      rootPath: join(__dirname, '..', 'public/'),
       serveRoot: '/api-docs',
     }),
     TypeOrmModule.forRoot({

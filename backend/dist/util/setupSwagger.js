@@ -4,8 +4,8 @@ exports.setupSwagger = setupSwagger;
 const swagger_1 = require("@nestjs/swagger");
 function setupSwagger(app) {
     const options = new swagger_1.DocumentBuilder()
-        .setTitle('WhiteClinic Project API Document')
-        .setDescription('WhiteClinic Project API Docs')
+        .setTitle('화이트클리닉 프로젝트 API 문서')
+        .setDescription('화이트 클리닉 프로젝트 API 문서')
         .setVersion('1.0.0')
         .addBearerAuth({
         type: 'http',
