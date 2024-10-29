@@ -1,1 +1,1 @@
-{"version":3,"file":"URLS.js","sourceRoot":"","sources":["../../src/util/URLS.ts"],"names":[],"mappings":";;;AAAa,QAAA,WAAW,GAAG,IAAI,CAAC;AACnB,QAAA,SAAS,GAAG,uBAAuB,CAAC;AACpC,QAAA,UAAU,GACrB,gEAAgE,CAAC"}
+{"version":3,"file":"URLS.js","sourceRoot":"","sources":["../../src/util/URLS.ts"],"names":[],"mappings":";;;AAAa,QAAA,WAAW,GAAG,IAAI,CAAC;AACnB,QAAA,SAAS,GAAG,uBAAuB,CAAC;AACpC,QAAA,UAAU,GAAG,2BAA2B,CAAC"}

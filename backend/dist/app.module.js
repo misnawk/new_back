@@ -29,7 +29,7 @@ exports.AppModule = AppModule = __decorate([
                 isGlobal: true,
             }),
             serve_static_1.ServeStaticModule.forRoot({
-                rootPath: (0, path_1.join)(__dirname, '..', 'public'),
+                rootPath: (0, path_1.join)(__dirname, '..', 'public/'),
                 serveRoot: '/api-docs',
             }),
             typeorm_1.TypeOrmModule.forRoot({
